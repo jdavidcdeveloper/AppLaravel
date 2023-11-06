@@ -1,15 +1,10 @@
-
-
-APLICACIÓN DESARROLLADA EN EL FRAMEWORK LARAVEL DE PHP APLICANDO UN CRUD PARA USUARIOS DE UNA EMPRESA
+## APLICACIÓN DESARROLLADA EN LARAVEL
 
 (screenshots/Crear_empleado.png)
 
 (screenshots/Editar_empleado.png)
 
 (screenshots/Vista_empleados.png)
-
-Instrucciones para correr la aplicación del laravel en otro servidor local
-
 
 ## HERRAMIENTAS
 
@@ -59,19 +54,7 @@ Laravel Snippets
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Laravel
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
