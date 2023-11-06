@@ -1,10 +1,12 @@
 ## APLICACIÓN DESARROLLADA EN LARAVEL
 
-(screenshots/Crear_empleado.png)
+![Formulario del login](screenshots/Login.png)
 
-(screenshots/Editar_empleado.png)
+![Formulario de crear usuario](screenshots/Crear_empleado.png)
 
-(screenshots/Vista_empleados.png)
+![Formulario de editar y eliminar usuarios](screenshots/Editar_empleado.png)
+
+![Formulario de vista de todos los usuarios](screenshots/Vista_empleados.png)
 
 ## HERRAMIENTAS
 
